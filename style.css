@@ -1,0 +1,374 @@
+
+.body { 
+    margin: 0px;
+    background-color: black;
+    
+}
+
+
+.header{
+    width: 100%;
+    background-color: black;
+    height: 100%;
+    display:flex;
+}
+
+
+
+.logo > img {
+    width: 150px;
+}
+.menu > li {
+    display: inline-block;
+    color: white;
+    margin-right: 10px;
+}
+.logo {
+        width: 58%;
+        display: inline-block;
+      padding: 20px 10px;
+    }
+
+.horizontal {
+        width: 55%;
+        text-align:right;
+       margin-top: 10px;
+    }
+
+
+.logo,.horizontal {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.btn > button {
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+
+}
+ 
+
+.btn1{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ! important;
+}
+
+.btn2{
+    background-color: #ed1c24;
+    color: white;
+    border: 1px solid #ed1c24 ! important;
+}
+ 
+.menu,.btn {
+    display: inline-block;
+}
+
+.btn2 > i {
+    background-color: white;
+    color: #ed1c24;
+    padding: 2px;
+    border-radius: 100%;
+    margin-left: 2px;
+    
+}
+.slide {
+    width: 100%;
+    height: 500px;
+}
+.slide > img {
+    width: 100%;
+    height: 100%;
+}
+
+.vertical {
+    width: 100%;
+    height: 500%;
+    background-color: black;
+    display: inline-block;
+    color: white;
+    
+
+  }
+    
+  .content {
+    text-align: center;
+    margin-top: 6px;
+  }
+
+  .content > h2 >span{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.cadslogo{
+    text-align: center;
+    width: 250px;
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 30px 10px;
+}
+.cadslogo > img {
+ width: 70%;
+ margin-top: 0px;
+}
+.cadsbtn > button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ! important;
+
+}
+.cadsbtn > button{
+    border: none;
+    padding: 15px 20px;
+    border-radius: 35px;  
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ! important;
+} 
+.cadsbtn{
+  
+    text-align: center;
+    width: 260px;
+    margin-top: 5px;
+}
+
+
+.pak {
+   background-color:black;
+   text-align: center;
+   padding: 10px;
+    
+}
+.cards,.cards2,.cards3 {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.cards2{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.pd{
+    background-color: black;
+    color: #FFFFFF;
+}
+.slide2 {
+    width: 100%;
+    height: 500px;
+    margin-top: 0px;
+}
+.slide2 > img {
+    width: 100%;
+    height: 100%;
+}
+
+.products img{ text-align: center;
+width: 250px;
+text-align: center;
+background-color: #FFFFFF;
+border-radius: 5px;
+display: inline-block;
+margin-top: 10px;
+}
+
+.pd {
+    text-align: center;
+    margin-top: 6px;
+
+}
+
+.img1,.img2,.img3,.img4,.img5 {
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.slide3{
+    background-color:rgb(15, 15, 20);
+}
+
+.slide3 img{
+   height: 700px;
+    border-radius: 2pt;
+   
+}
+.color1 {
+    color:#ED1C24;
+    font-family:'Apercu';
+    line-height: 20px;
+    letter-spacing: 5pt;
+}
+.color2{
+    color:rgb(247, 242, 242);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.color3{
+    color: white;
+    letter-spacing: 1pt;
+
+}
+.slide3 button{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white ! important;
+    border-radius: 40px;  
+    border: none;
+    padding: 10px 20px;
+    margin-top: 6%;
+   
+}
+.slide3 button > i {
+    background-color: white;
+    color: #ed1c24;
+    padding: 2px;
+    border-radius: 100%;
+    margin-left: 2px;
+}
+
+
+.deals img{
+    height: 300px;
+    border-radius: 5px;
+    
+
+
+    
+
+}
+
+
+.o1,.o2,.o3{
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    display: inline-block;
+   
+}
+.dit{
+    background-color: black;
+    color: #FFFFFF;  
+    margin-top: -1.33%;
+    text-align: center;
+}
+.dit2{
+    background-color: black;
+    color: #FFFFFF;  
+    margin-top:0px;
+    text-align: center;
+}
+
+.dit3{
+    background-color: rgb(21, 19, 19);
+    color: #FFFFFF;  
+    margin-top: -1.40%;
+    text-align: center;
+}
+
+
+.t1{
+    color:rgb(236, 228, 207);
+    text-align: center;
+  
+}
+.hd{
+
+    text-align: center;
+    margin-top: 10px;
+}
+.dit text{
+    text-align: center
+}
+
+
+
+
+.cadsbtnpp > button{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 35px;  
+    background-color:red ;
+    color: white;
+  
+} 
+.cadsbtnpp{
+    margin-top: 5px;
+    margin-bottom: 20px;
+  
+ 
+    
+   
+}
+
+
+.slide4 button > i {
+    background-color:wheat;
+    color: #fe0a0a;
+    padding: 2px;
+    border-radius: 100%;
+    margin-left: 2px;
+}
+.slide4 button{
+    background-color: #ed1c24;
+}
+.o7,.o8,.o9{
+display: inline-block;
+margin: 5px 5px;
+text-align: center;
+}
+
+footer {
+    background-color:rgb(12, 4, 4);
+    color: #fff;
+    padding: 20px 0;
+    
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-section {
+    display: inline-block;
+  }
+  
+  .footer-section h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section p {
+    margin: 5px 0;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 5px;
+  }
+  
+  .footer-section a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .copyright {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .copyright p {
+    font-size: 0.9em;
+  }
